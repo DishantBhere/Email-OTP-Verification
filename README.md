@@ -27,4 +27,24 @@ Install dependencies:
 pip install secure-smtplib
 ```
 
+## 🌶️ Setup
 
+1.Generate an App Password in your Google Account.
+
+2.Store credentials as environment variables:
+
+```
+export EMAIL_USER=youremail@gmail.com
+export EMAIL_PASS=yourapppassword
+```
+3.Run the Script:
+```
+python otp_verification.py
+
+```
+## 🍋 Example 
+```
+Enter your email: user@example.com
+Enter Your OTP >>: 123456
+✅ Verified
+```
