@@ -3,7 +3,7 @@
 This is a simple Python script that generates a 6-digit One-Time Password (OTP) and sends it to the user's email using Gmail SMTP. The user then enters the OTP in the console to verify their identity.
 
 
- 🍋‍🟩 #Features 
+ 🍋‍🟩 # Features 
 
 1.Generates a random 6-digit OTP
 
@@ -13,7 +13,7 @@ This is a simple Python script that generates a 6-digit One-Time Password (OTP) 
 
 4.Uses App Passwords for secure login
 
-🍉 #Requirements
+🍉 # Requirements
 
 1.Python 3.x
 
