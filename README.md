@@ -23,8 +23,8 @@ This is a simple Python script that generates a 6-digit One-Time Password (OTP) 
 
 Install dependencies:
 
----
+```
 pip install secure-smtplib
+```
 
----
 
