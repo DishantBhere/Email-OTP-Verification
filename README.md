@@ -1,4 +1,4 @@
-# Email OTP Verification (Python)
+# Email OTP Verification (Python) 🐍
 
 This is a simple Python script that generates a 6-digit One-Time Password (OTP) and sends it to the user's email using Gmail SMTP. The user then enters the OTP in the console to verify their identity.
 
