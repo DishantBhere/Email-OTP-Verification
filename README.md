@@ -19,3 +19,12 @@ This is a simple Python script that generates a 6-digit One-Time Password (OTP) 
 
 2.Gmail account with App Password enabled
 
+
+
+Install dependencies:
+
+---
+pip install secure-smtplib
+
+---
+
